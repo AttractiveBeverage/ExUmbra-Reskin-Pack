@@ -5,7 +5,7 @@ This (should be) a multiplayer compatable reskin pack for Hideous Destructor.
 This pack reskins all vanilla Hideous Destructor weapons and adds black fingerless gloves to their HUD graphics.
 So far there are no sounds in this pack, insurgancy fx is a good fit.
 
-##Supported Mods
+## Supported Mods
 [PD-42](https://gitlab.com/icarus-innovations/hdest-addons/pd-42)
 [Nyx](https://gitlab.com/icarus-innovations/hdest-addons/nyx)
 [Kauser](https://www.mediafire.com/file/3ui139l6nl1sqc6/.355_mauser.zip/file)
