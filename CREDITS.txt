@@ -1,0 +1,59 @@
+Let me know if I missed anything. I've compiled this reskin pack over several years, so I might have lost track of where some of these came from.
+
+
+-Weapons-
+Fists: Taken from the fingerless glove sprite sheet. Female fists by Skelgant, edits by ExUmbra
+Knife: HUD graphic edits by ExUmbra
+Axe: HUD graphic edits by ExUmbra
+Sledge: HUD graphic edits by ExUmbra/Stalker
+Kharon: HUD graphic edits by ExUmbra
+Defiler: HUD graphic edits by ExUmbra
+Chainsaw: Project Brutality
+Pistol: Freedoom
+Revolver: DoomNukem, edits by Accensus
+Kauser: HUD graphic edits by ExUmbra
+Nyx: HUD graphic edits by ExUmbra
+Shotgun: Weapons of Saturn
+Super Shotgun: DoomNukem, long edits by Accensus
+SMG: DoomNukem, world sprite edits by ExUmbra
+PD-42: Edits by ExUmbra
+ZM66: Project Brutality, world sprite edits by ExUmbra
+Chaingun: Eriance/Snarboo/Uboa/Midway Studios/Mike12
+Liberator: DoomNukem, world sprite by ExUmbra using DoomNukem's as a base. HUD graphic reshade by HyperUltra64
+Thunder Buster: Project Brutality,edits by ExUmbra
+Blooper: Sonik.o.fan, edits by ExUmbra
+Rocket Launcher: Demon Eclipse/Sergeant_Mark_IV
+Bronto: Eriance
+BFG: Quaker540
+Boss: Sgt. Shivers world sprite by ChopBlock223
+
+-Items-
+7mm Box: Trailblazer, edits by ExUmbra
+Shell Box: Edits by ExUmbra
+Slug Boxs: Edits by ExUmbra
+.355 Box: Trailblazer, edits by ExUmbra
+9mm Box: Trailblazer, edits by ExUmbra
+Rocket Box: Not sure, I think Doom64. Edits by ExUmbra
+Spirit Armor: Not sure, I think Skelegant
+Green Armor: Not sure, edits by ExUmbra
+Blue Armor: Not sure, edits by ExUmbra
+Corporate Armor: Strife, edits by ExUmbra
+Helmet: Smooth Doom, edits by ExUmbra
+Light amp goggles/Keycards/Skullkeys: zrrion the insect - edits by ExUmbra
+Battery: Ac!d/Dr_Cosmobyte, edits by ExUmbra.
+Blur Sphere: Raven Software, edits by ExUmbra
+Medkit: Project Brutality
+Stim Pack: Project Brutality, edits by ExUmbra
+Rad Suite: Project Brutality, edits by ExUmbra
+
+-Sights-
+Everything is by Accensus, minus the Thunder Buster window edited by ExUmbra
+
+-Brightmaps-
+All done by ExUmbra
+
+-Misc-
+
+psalms.txt edited by ExUmbra 
+
+

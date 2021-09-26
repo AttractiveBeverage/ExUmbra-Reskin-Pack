@@ -1,0 +1,301 @@
+// Green Armor
+brightmap sprite ARMSA0
+{
+	map "brightmaps/doom/items/armsa0.png"
+}
+
+// Blue Armor
+brightmap sprite ARMCA0
+{
+	map "brightmaps/doom/items/armca0.png"
+}
+
+//Black Armor
+
+brightmap sprite CARMA0
+{
+	map "brightmaps/doom/items/carma0.png"
+}
+
+//Blur
+brightmap sprite PINSA0
+{
+	map "brightmaps/doom/items/pinsa0.png"
+	
+}
+
+brightmap sprite PINSB0
+{
+	map "brightmaps/doom/items/pinsb0.png"
+	
+}
+
+brightmap sprite PINSC0
+{
+	map "brightmaps/doom/items/pinsc0.png"
+	
+}
+
+brightmap sprite PINSD0
+{
+	map "brightmaps/doom/items/pinsd0.png"
+	
+}
+
+// Battery
+brightmap sprite CELLA0
+{
+	map "brightmaps/doom/items/cella0.png"
+}
+
+brightmap sprite CELLB0
+{
+	map "brightmaps/doom/items/cellb0.png"
+}
+
+brightmap sprite CELLC0
+{
+	map "brightmaps/doom/items/cellc0.png"
+}
+
+// Defiler
+brightmap sprite DFLRA0
+{
+	map "brightmaps/hideous_destructor/defiler/dflra0.png"
+}
+
+brightmap sprite DFLRB0
+{
+	map "brightmaps/hideous_destructor/defiler/dflra0.png"
+}
+
+brightmap sprite DFLRZ0
+{
+	map "brightmaps/hideous_destructor/defiler/dflrz0.png" 
+}
+
+// ZM66
+
+brightmap sprite RIFGA0
+{
+ map "brightmaps/hideous_destructor/zm66/rifga0.png"
+}
+
+brightmap sprite RIFGB0
+{
+ map "brightmaps/hideous_destructor/zm66/rifgb0.png"
+}
+
+brightmap sprite RIFLA0
+{
+	map "brightmaps/hideous_destructor/zm66/rifla0.png"
+}
+
+brightmap sprite RIFLB1
+{
+		map "brightmaps/hideous_destructor/zm66/riflb1.png"
+
+}
+
+brightmap sprite RIFLB5
+{
+		map "brightmaps/hideous_destructor/zm66/riflb5.png"
+
+}
+
+brightmap sprite RIFLB6B4
+{
+		map "brightmaps/hideous_destructor/zm66/riflb6b4.png"
+
+}
+
+brightmap sprite RIFLB7B3
+{
+		map "brightmaps/hideous_destructor/zm66/riflb7b3.png"
+
+}
+
+brightmap sprite RIFLB8B2
+{
+		map "brightmaps/hideous_destructor/zm66/riflb8b2.png"
+
+}
+
+brightmap sprite RIFLC1
+{
+		map "brightmaps/hideous_destructor/zm66/riflc1.png"
+
+}
+
+brightmap sprite RIFLC5
+{
+		map "brightmaps/hideous_destructor/zm66/riflc5.png"
+
+}
+
+// Liberator
+
+brightmap sprite BRFLA0
+{
+	map "brightmaps/hideous_destructor/liberator/bp_lib_mag.png"
+}
+
+brightmap sprite BRFLB0
+{
+ 	map "brightmaps/hideous_destructor/liberator/bp_lib_mag.png"
+ 
+}
+
+brightmap sprite BRFLC0
+{
+	map "brightmaps/hideous_destructor/liberator/bp_lib_nomag.png"
+
+}
+
+brightmap sprite BRFLD0
+{
+ 	map "brightmaps/hideous_destructor/liberator/bp_lib_nomag.png"
+
+}
+
+brightmap sprite BRLLA0
+{
+	map "brightmaps/hideous_destructor/liberator/lib_mag.png"
+
+}
+
+brightmap sprite BRLLB0
+{
+	map "brightmaps/hideous_destructor/liberator/lib_mag.png"
+
+}
+
+brightmap sprite BRLLC0
+{
+	map "brightmaps/hideous_destructor/liberator/lib_nomag.png"
+
+}
+
+brightmap sprite BRLLD0
+{
+	map "brightmaps/hideous_destructor/liberator/lib_nomag.png"
+
+}
+
+// Thunder Buster
+
+brightmap sprite PLASA0
+{
+	map "brightmaps/hideous_destructor/thunder_buster/plasa0.png"
+}
+
+brightmap sprite THBGA0
+{
+	map "brightmaps/hideous_destructor/thunder_buster/thbga0.png"
+}
+
+// BGF
+
+brightmap sprite BFUGA0
+{
+	map "brightmaps/doom/weapons/bfg/bfuga0.png"
+}
+
+// PD-42
+
+brightmap sprite PDFGA0
+{
+	map "brightmaps/hideous_destructor/pd-42/pdftb0.png"
+}
+
+brightmap sprite PDWGY0
+{
+	map "brightmaps/hideous_destructor/pd-42/pd42.png"
+}
+
+brightmap sprite PDWGZ0
+{
+	map "brightmaps/hideous_destructor/pd-42/pd42.png"
+}
+
+brightmap sprite PDWSY0
+{
+	map "brightmaps/hideous_destructor/pd-42/pdsl.png"
+}
+
+brightmap sprite PDWSZ0
+{
+	map "brightmaps/hideous_destructor/pd-42/pdsl.png"
+}
+
+// Nyx
+
+brightmap sprite NRLAA0
+{
+	map "brightmaps/hideous_destructor/nyx/nrlaa0.png"
+}
+
+brightmap sprite NRLAD0
+{
+	map "brightmaps/hideous_destructor/nyx/nrlad0.png"
+ 
+}
+
+brightmap sprite NRLBA0
+{
+	map "brightmaps/hideous_destructor/nyx/nrlba0.png"
+ 
+}
+
+brightmap sprite NRLBD0
+{
+	map "brightmaps/hideous_destructor/nyx/nrlbd0.png"
+ 
+}
+
+brightmap sprite NRLCA0
+{
+	map "brightmaps/hideous_destructor/nyx/nrlca0.png"
+ 
+}
+
+brightmap sprite NRLCD0
+{
+	map "brightmaps/hideous_destructor/nyx/nrlcd0.png"
+ 
+}
+
+brightmap sprite NYXGA0
+{
+	map "brightmaps/hideous_destructor/nyx/nyxga0.png"
+}
+
+brightmap sprite NYXGB0
+{
+	map "brightmaps/hideous_destructor/nyx/nyxgb0.png"
+}
+
+brightmap sprite NYXGD0
+{
+	map "brightmaps/hideous_destructor/nyx/nyxgd0.png"
+}
+
+brightmap sprite NYXCM0
+{
+	map "brightmaps/hideous_destructor/nyx/nyxbase.png"
+}
+
+brightmap sprite NYXCO0
+{
+	map "brightmaps/hideous_destructor/nyx/nyxbase.png"
+}
+
+brightmap sprite NYXEM0
+{
+	map "brightmaps/hideous_destructor/nyx/nyxempt.png"
+}
+
+brightmap sprite NYXEO0
+{
+	map "brightmaps/hideous_destructor/nyx/nyxempt.png"
+}
