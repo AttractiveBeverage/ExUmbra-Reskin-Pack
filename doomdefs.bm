@@ -201,6 +201,21 @@ brightmap sprite BFUGA0
 	map "brightmaps/doom/weapons/bfg/bfuga0.png"
 }
 
+brightmap sprite B9KGA0
+{
+	map "brightmaps/doom/weapons/bfg/b9kga0.png"
+}
+
+brightmap sprite B9KGB0
+{
+	map "brightmaps/doom/weapons/bfg/b9kgb0.png"
+}
+
+brightmap sprite B9KGC0
+{
+	map "brightmaps/doom/weapons/bfg/b9kgb0.png"
+}
+
 // PD-42
 
 brightmap sprite PDFGA0
