@@ -1,1 +1,2 @@
-09/26/21- Initial release.
+09/26/21 - Initial release.
+10/10/21 - Added support for new RL scope.
