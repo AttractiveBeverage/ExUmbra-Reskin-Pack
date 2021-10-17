@@ -4,6 +4,12 @@ brightmap sprite ARMSA0
 	map "brightmaps/doom/items/armsa0.png"
 }
 
+// HEV Armor
+brightmap sprite HEVAA0
+{
+	map "brightmaps/hideous_destructor/hev_armor/hevaa0.png"
+}
+
 // Blue Armor
 brightmap sprite ARMCA0
 {
