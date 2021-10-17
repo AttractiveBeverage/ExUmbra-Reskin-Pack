@@ -22,7 +22,7 @@ Chaingun: Eriance/Snarboo/Uboa/Midway Studios/Mike12
 Liberator: DoomNukem, world sprite by ExUmbra using DoomNukem's as a base. HUD graphic reshade by HyperUltra64
 Thunder Buster: Project Brutality,edits by ExUmbra
 Blooper: Sonik.o.fan, edits by ExUmbra
-Rocket Launcher: Demon Eclipse/Sergeant_Mark_IV
+Rocket Launcher: Demon Eclipse/Sergeant_Mark_IV, edits by ExUmbra
 Bronto: Eriance
 BFG: Quaker540
 Boss: Sgt. Shivers world sprite by ChopBlock223

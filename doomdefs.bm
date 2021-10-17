@@ -182,6 +182,13 @@ brightmap sprite BRLLD0
 
 }
 
+// Rocket Launcher
+
+brightmap sprite LAUNA0
+{
+	map "brightmaps/hideous_destructor/rocket_launcher/LAUNA0.png"
+}
+
 // Thunder Buster
 
 brightmap sprite PLASA0
